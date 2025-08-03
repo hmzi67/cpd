@@ -1,0 +1,7 @@
+# Streamlit Cloud - Guaranteed Compatible Versions
+# Tested on Streamlit Cloud as of August 2025
+
+streamlit==1.25.0
+opencv-python-headless==4.7.1.72
+mediapipe==0.10.3
+numpy==1.23.5

@@ -1,0 +1,11 @@
+# Streamlit Cloud Optimized Requirements
+# Fixed versions to avoid dependency conflicts
+
+streamlit==1.28.1
+opencv-python-headless==4.8.1.78
+mediapipe==0.10.7
+numpy==1.24.3
+pandas==2.0.3
+Pillow==10.0.1
+matplotlib==3.7.2
+protobuf==3.20.3
